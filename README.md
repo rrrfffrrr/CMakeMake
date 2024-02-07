@@ -1,6 +1,6 @@
 # CMakeMake
 
-Make single CMakeLists.txt
+Make single CMakeLists.txt  
 Create build.js on project directory and using cmake api
 
 # Warning
